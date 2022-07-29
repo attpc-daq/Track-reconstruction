@@ -1,6 +1,8 @@
 # Track-reconstruction
 2D径迹重构-Hough Transform
 
+编译条件:ROOT_v6
+
 2D直线重构Hough变换具体可参考以下网站进行理解：
 
 https://blog.csdn.net/nichongben/article/details/79029966
