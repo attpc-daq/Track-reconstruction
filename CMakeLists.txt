@@ -10,7 +10,7 @@ project(HoughTransform)
 #CMAKE_INSTALL_PREFIX
 #----------------------------------------------------------------------------
 # Load some basic macros which are needed later on
-include(../FindROOT.cmake)
+include(./FindROOT.cmake)
 
 #----------------------------------------------------------------------------
 # Setup Geant4 include directories and compile definitions
