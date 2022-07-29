@@ -1,7 +1,4 @@
-#include "../include/HoughTransform2D.hpp"
-
-#include "TF1.h"
-#include "TSpectrum2.h"
+#include "HoughTransform2D.hpp"
 
 #include <iostream>
 #include <vector>
